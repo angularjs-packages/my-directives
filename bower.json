@@ -1,0 +1,25 @@
+{
+  "name": "my-directives",
+  "version": "0.0.1",
+  "authors": [
+    "ngohoaiphuong <ngohoai.phuong@gmail.com>"
+  ],
+  "description": "some directives as change format input after keydown, ....",
+  "main": "my-directives.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "directive",
+    "titleCase"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angularjs-packages/my-directives",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
